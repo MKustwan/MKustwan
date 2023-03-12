@@ -30,11 +30,12 @@ Basic knowledge of:
 
 ## Tech skills 🖥
 <p align="justify">I took part in Dare It "QA manual testing" in which I have tested several apps (web and mobile). 
-<br>During this challenge I've created test cases based on user story and by exploratory testing. I've also reported bugs and created Summary Test Report. </p>
+<br>During this challenge I've created test cases based on an user story and by test cases created by exploratory testing. I've also reported bugs and created Summary Test Report. </p>
 
+I have knowledge in the field of:
 * <strong>Software testing</strong>,
-* <strong>Creating test cases</strong>,
-* <strong>Reporting bugs</strong>,
+* <strong>Creating test cases</strong> ,
+* <strong>Reporting bugs</strong> ,
 * <strong>SQL</strong>,
 * <strong>Postman</strong>.
 
