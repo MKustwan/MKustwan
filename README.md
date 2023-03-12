@@ -29,7 +29,7 @@ Basic knowledge of:
 * <strong>PicPick</strong> - screen capture tool.
 
 ## Tech skills 🖥
-<p align="justify">I took part in Dare It "QA manual testing" in which I have tested several apps (web and mobile). 
+<p align="justify">I took part in Dare IT "QA manual testing" in which I have tested several apps (web and mobile). 
 <br>During this challenge I've created test cases based on an user story and test cases created by exploratory testing. I've also reported bugs and created Summary Test Report. </p>
 
 I have knowledge in the field of:
