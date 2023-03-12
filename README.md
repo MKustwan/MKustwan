@@ -27,6 +27,7 @@ Basic knowledge of:
 * <strong>Mobizen</strong> - screen recorder for mobile,
 * <strong>ShareX</strong> - screenshot tool,
 * <strong>PicPick</strong> - screen capture tool.
+
 ## Tech skills 🖥
 <p align="justify">I took part in Dare It "QA manual testing" in which I have tested [Football Scouts web apllication](https://scouts-test.futbolkolektyw.pl/), ["Pick eat up" mobile application](https://pickeatup.io/), [OLX mobile application](https://www.olx.pl/), [SwipeTo web / mobile application](https://swipeto.pl). 
 <br>During this challenge I've created test cases based on user story and by exploratory testing. I've also reported bugs and created Summary Test Report. </p>
@@ -35,6 +36,7 @@ Basic knowledge of:
 * <strong>Reporting bugs</strong>,
 * <strong>SQL</strong>,
 * <strong>Postman</strong>.
+
 ## Soft skills🗣️
 Working as an assistant of a gas pipelines designer has strengthened my following skills:
 * <strong>Teamwork</strong> and <strong>communication</strong> - since I've finished my studies I'm working in a design team, so I thrive in a team environment,
