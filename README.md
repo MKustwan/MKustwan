@@ -37,7 +37,6 @@ I have knowledge in the field of:
 * <strong>Creating test cases</strong>,
 * <strong>Reporting bugs</strong> ,
 * <p align="justify"><strong>SQL</strong> - SQL commands which I know are compiled in my portoflio for Dare It Challenge: 
-  
 1. [SQL part 1](https://github.com/MagdalenaKustwan/challenge_portfolio_magda#TASK-5),
 2. [SQL part 2](https://github.com/MagdalenaKustwan/challenge_portfolio_magda#TASK-6)</p>,
 * <strong>Postman</strong> - basic level.
