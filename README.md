@@ -40,7 +40,7 @@ I have knowledge in the field of:
   
 1. [SQL part 1](https://github.com/MagdalenaKustwan/challenge_portfolio_magda#TASK-5),
 2. [SQL part 2](https://github.com/MagdalenaKustwan/challenge_portfolio_magda#TASK-6)</p>,
-* <strong>Postman - basic level</strong>.
+* <strong>Postman</strong> - basic level.
 
 ## Soft skills🗣️
 Working as an assistant of a gas pipelines designer has strengthened my following skills:
