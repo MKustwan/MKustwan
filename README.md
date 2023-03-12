@@ -28,7 +28,8 @@ Basic knowledge of:
 * <strong>ShareX</strong> - screenshot tool,
 * <strong>PicPick</strong> - screen capture tool.
 ## Tech skills 🖥
-I took part in Dare It "QA manual testing" in which I have tested [Football Scouts web apllication](https://scouts-test.futbolkolektyw.pl/), ["Pick eat up" mobile application](https://pickeatup.io/), [OLX mobile application](https://www.olx.pl/), [SwipeTo web / mobile application](https://swipeto.pl).  
+<p align="justify">I took part in Dare It "QA manual testing" in which I have tested [Football Scouts web apllication](https://scouts-test.futbolkolektyw.pl/), ["Pick eat up" mobile application](https://pickeatup.io/), [OLX mobile application](https://www.olx.pl/), [SwipeTo web / mobile application](https://swipeto.pl). 
+<br>During this challenge I've created test cases based on user story and by exploratory testing. I've also reported bugs and created Summary Test Report. </p>
 * <strong>Software testing</strong>,
 * <strong>Creating test cases</strong>,
 * <strong>Reporting bugs</strong>,
