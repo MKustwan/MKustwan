@@ -29,7 +29,7 @@
 ## Tech skills 🖥
 * <strong>Software testing</strong>,
 * <strong>Creating test cases</strong>,
-* <strong>Reporting bug</strong>s,
+* <strong>Reporting bugs</strong>,
 * <strong>SQL</strong>,
 * <strong>Postman</strong>.
 ## Soft skills🗣️
