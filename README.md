@@ -34,9 +34,9 @@ Basic knowledge of:
 
 I have knowledge in the field of:
 * <strong>Software testing</strong>,
-* <strong>Creating test cases</strong> ,
+* <strong>Creating test cases</strong>,
 * <strong>Reporting bugs</strong> ,
-* <strong>SQL</strong>,
+* <strong>SQL</strong> - SQL commands which I know are compiled in my portoflio for Dare It Challenge: https://github.com/MagdalenaKustwan/challenge_portfolio_magda#TASK-5,
 * <strong>Postman</strong>.
 
 ## Soft skills🗣️
