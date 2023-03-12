@@ -37,7 +37,8 @@ I have knowledge in the field of:
 * <strong>Creating test cases</strong>,
 * <strong>Reporting bugs</strong> ,
 * <strong>SQL</strong> - SQL commands which I know are compiled in my portoflio for Dare It Challenge: 
-** [SQL1] (https://github.com/MagdalenaKustwan/challenge_portfolio_magda#TASK-5),
+
+** [SQL1](https://github.com/MagdalenaKustwan/challenge_portfolio_magda#TASK-5),
 * <strong>Postman</strong>.
 
 ## Soft skills🗣️
