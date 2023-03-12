@@ -30,7 +30,7 @@ Basic knowledge of:
 
 ## Tech skills 🖥
 <p align="justify">I took part in Dare IT "QA manual testing" in which I have tested several apps (web apps and mobile apps). 
-<br>During this challenge I've created test cases based on an user story and test cases created by exploratory testing. I've also reported bugs and created Summary Test Report. </p>
+<br>During this challenge I've created test cases, reported bugs and created Summary Test Report. </p>
 
 I have knowledge in the field of:
 * <strong>Software testing</strong>,
@@ -57,7 +57,7 @@ Working as an assistant of a gas pipelines designer has strengthened my followin
 ## My projects 💻
 ### 1. [Football Scouts web apllication](https://scouts-test.futbolkolektyw.pl/)
 * [Test Cases based on User Story](https://docs.google.com/spreadsheets/d/1f743nJbJRFVM-6Q-Gs4fvZtBPScJbfGY9Di4mZ2xE7E/edit#gid=0)
-* [Test Cases based on exploratory testing](https://docs.google.com/spreadsheets/d/1aTDpsfbxUiWod1yA2tgrxEHNAv--As5-ufsPlr7xjq8/edit#gid=0)
+* [Test Cases based on "my own experience"](https://docs.google.com/spreadsheets/d/1aTDpsfbxUiWod1yA2tgrxEHNAv--As5-ufsPlr7xjq8/edit#gid=0)
 * [Bug Reports 1](https://docs.google.com/document/d/1gtXcMbP4IvgVwKEMl7KNeSZhK4EqXtWq-Teyad3258k/edit), [Attachments](https://drive.google.com/drive/folders/10BkHWJDOZzVEY48z4-tYlQ9Qf-fEI6UK)
 * [Bug Reports 2](https://docs.google.com/document/d/1EMviWXsw5gNjMoQ0EOenddn1YJe2aIu99inNrnfEXi4/edit), [Attachments](https://drive.google.com/drive/folders/10BkHWJDOZzVEY48z4-tYlQ9Qf-fEI6UK)
 * [Summary Test Report - Football Scouts Panel web application](https://docs.google.com/document/d/1q6kp1qb3HyzGO6dV0wQPLDXBL0uMm8Hc4TcDkIq-LdI/edit)
