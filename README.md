@@ -42,7 +42,8 @@ Working as an assistant of a gas pipelines designer has strengthened my followin
 * "Zawód tester" Radosław Smilgin,
 * "Pasja testowania" Krzysztof Jadczyk.
 ## Blogs I read 📚
-* [testerzy.pl](https://testerzy.pl/) 
+* [testerzy.pl](https://testerzy.pl/),
+* [testerka.pl](https://testerka.pl)
 ## My projects 💻
 ### 1. [Football Scouts web apllication](https://scouts-test.futbolkolektyw.pl/)
 * [Test Cases based on User Story](https://docs.google.com/spreadsheets/d/1f743nJbJRFVM-6Q-Gs4fvZtBPScJbfGY9Di4mZ2xE7E/edit#gid=0)
