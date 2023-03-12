@@ -12,13 +12,14 @@
 * ISTQB Foundation Level passed in December 2022, no of certificate <strong>95202</strong>,
 * Dare It "QA manual testing".
 ## Courses📋
-* "ISTQB" Foundation Level,
+* "ISTQB" Foundation Level - course guided by Krzysztof Kołodziejczyk from testerzy.pl,
 * "QA manual testing" - Dare It Challenge,
 * "Postman testowanie REST API" (Udemy),
 * "Kurs SQL od podstaw" (Udemy),
 * "Kurs Git dla początkujących" (Udemy),
 * "Kurs Jira od podstaw - zarządzanie projektami" (Udemy).
 ## Tools 🔧
+Basic knowledge of:
 * <strong>Jira</strong> - Project Managment,
 * <strong>Chrome DevTools</strong> - for testing and to improve bug reports,
 * <strong>Git, Git Bash, GitHub</strong>,
