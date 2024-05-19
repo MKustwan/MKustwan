@@ -80,3 +80,5 @@ Working as an assistant of a gas pipelines designer has strengthened my followin
 ### 3. [OLX mobile application](https://www.olx.pl/)
 * [Bug Reports](https://docs.google.com/document/d/1fztrn_jhq8e8R7ts9O9r_n2RKX-jmP9NwJhYPPnfOUM/edit), [Attachments](https://drive.google.com/drive/folders/1SVZRa6-d23UBrf1ps7SIEeWh2KYp1isr)
 ### 4. [Dare IT: QA Challenge - Zostań Testerem Manualnym](https://github.com/MKustwan/challenge_portfolio_magda)
+### 5. [Automated testing - Selenium WebDriver with Java](https://github.com/MKustwan/SeleniumWebDriver)
+### 6. [API testing - Rest Assured](https://github.com/MKustwan/RestAssured)
