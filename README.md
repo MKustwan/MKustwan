@@ -50,6 +50,11 @@ I have knowledge in the field of:
 1. [SQL part 1](https://github.com/MagdalenaKustwan/challenge_portfolio_magda#TASK-5),
 2. [SQL part 2](https://github.com/MagdalenaKustwan/challenge_portfolio_magda#TASK-6),
 * <strong>Postman</strong> - basic level.
+  
+<p align="justify"> I have created two projects in Java Programming Language.
+<br>First of them concern automating browser-related test cases by Selenium WebDriver on a webpage "https://rahulshettyacademy.com/client". 
+<br>In this particular project I have used Page Object Model design pattern.
+<br> Second of them 
 
 ## Soft skills🗣️
 Working as an assistant of a gas pipelines designer has strengthened my following skills:
