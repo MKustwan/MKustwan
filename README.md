@@ -52,6 +52,7 @@ I have knowledge in the field of:
 * <strong>Postman</strong> - basic level.
   
 <p align="justify"> I have created two projects in <strong>Java Programming Language</strong>:
+  
 <br>1. First of them concern automating browser-related test cases by <strong>Selenium WebDriver with Java </strong>on a webpage "https://rahulshettyacademy.com/client". In this particular project I have used <strong>Page Object Model</strong> design pattern.
 <br>2. Second of them involve API testing with <strong>Rest Assured library</strong>. In this project I have used <strong>Cucumber software tool</strong> and I have created some test cases for https://www.themoviedb.org. 
 
