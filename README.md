@@ -52,9 +52,9 @@ I have knowledge in the field of:
 * <strong>Postman</strong> - basic level.
   
 <p align="justify"> I have created two projects in <strong>Java Programming Language</strong>.
-<br>First of them concern automating browser-related test cases by Selenium WebDriver with Java on a webpage "https://rahulshettyacademy.com/client". 
+* <br>First of them concern automating browser-related test cases by Selenium WebDriver with Java on a webpage "https://rahulshettyacademy.com/client". 
 <br>In this particular project I have used Page Object Model design pattern.
-<br> Second of them 
+<br>Second of them 
 
 ## Soft skills🗣️
 Working as an assistant of a gas pipelines designer has strengthened my following skills:
