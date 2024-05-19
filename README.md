@@ -22,7 +22,9 @@
 * "Postman testowanie REST API" (Udemy),
 * "Kurs SQL od podstaw" (Udemy),
 * "Kurs Git dla początkujących" (Udemy),
-* "Kurs Jira od podstaw - zarządzanie projektami" (Udemy).
+* "Kurs Jira od podstaw - zarządzanie projektami" (Udemy),
+* Bunch of courses connected with Selenium Webdriver (Udemy),
+* "Rest Assured Java - API Automation for Beginners" (Udemy). 
 ## Tools 🔧
 Basic knowledge of:
 * <strong>Jira</strong> - Project Managment,
@@ -31,7 +33,10 @@ Basic knowledge of:
 * <strong>Postman</strong> - testing tool for REST API,
 * <strong>Mobizen</strong> - screen recorder for mobile,
 * <strong>ShareX</strong> - screenshot tool,
-* <strong>PicPick</strong> - screen capture tool.
+* <strong>PicPick</strong> - screen capture tool,
+* <strong>Java Programming Language</strong>,
+* <strong>Selenium WebDriver</strong> automation framework for automating browser-related test cases,
+* <strong>Rest Assured</strong> Java-based library for testing RESTful APIs.
 
 ## Tech skills 🖥
 <p align="justify">I took part in Dare IT "QA manual testing" in which I have tested several apps (web apps and mobile apps). 
