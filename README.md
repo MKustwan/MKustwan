@@ -4,10 +4,10 @@
 <br>I want to rebrand and become <strong>automation tester</strong> and constantly develop towards <strong>automated testing.</strong>
 <br>Working as a tester gives a lot of <strong>possibilities to develop, requires commitment and continuous training</strong> - and this values I appreciate a lot.
 <br>My goal is to develop my knowledge and technical skills in the testing area.
-<br>I have become acquainted with Java Programming Language and nowadays I'm constantly expanding my knowledge connected with automating testing.
+<br>I have become acquainted with <strong>Java Programming Language</strong> and nowadays I'm constantly expanding my knowledge connected with automating testing.
 <br>I have become familiar with:
-<br>1.<strong>Selenium WebDriver</strong> automation framework for automating browser-related test cases,
-<br>2.</nr><strong>Rest Assured</strong> Java-based library for testing RESTful APIs.
+<br> 1.<strong>Selenium WebDriver</strong> automation framework for automating browser-related test cases,
+<br> 2.</nr><strong>Rest Assured</strong> Java-based library for testing RESTful APIs.
 <br>At this moment my goal is to harden my knowledge connected with Selenium WebDriver and Rest Assured and getting to know new tools which are used in automated testing.
 <br>Thanks to my work experience I develop interpersonal skills to work successfully with all of my team members. I think this experience would be very helpfull in a work connected with testing.
 <br>In this portfolio I would like to show my <strong>testing knowledge and technical skills</strong>, which I gained through self-learning and through taking part in courses connected with testing.
