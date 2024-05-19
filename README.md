@@ -52,9 +52,10 @@ I have knowledge in the field of:
 * <strong>Postman</strong> - basic level.
   
 <p align="justify"> I have created two projects in <strong>Java Programming Language</strong>:
-1. First of them concern automating browser-related test cases by <strong>Selenium WebDriver with Java </strong>on a webpage "https://rahulshettyacademy.com/client". 
+<br>1. First of them concern automating browser-related test cases by <strong>Selenium WebDriver with Java </strong>on a webpage "https://rahulshettyacademy.com/client". 
 <br>In this particular project I have used Page Object Model design pattern.
-2. Second of them 
+<br>2. Second of them involve API testing with Rest Assured library.
+<br> In this project I have used Cucumber software tool and I have created some test cases for _The MovieDB API_. 
 
 ## Soft skills🗣️
 Working as an assistant of a gas pipelines designer has strengthened my following skills:
