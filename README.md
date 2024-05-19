@@ -1,6 +1,6 @@
 # Portfolio
 ## About me 👱‍♀️
-<p align="justify">My name is Magdalena Kustwan. I graduated from Silesian University of Technology, faculty Environmental Engineering. Currently I'm working as an assistant of a gas pipelines designer. I have 8 years of experience in designing, creating technical ducumentation.
+<p align="justify">My name is Magdalena Kustwan. I graduated from Silesian University of Technology, faculty Environmental Engineering. Currently I'm working as an assistant of a gas pipelines designer. I have 9 years of experience in designing, creating technical ducumentation.
 <br>I want to rebrand and become at first <strong>manual tester</strong> but ultimately I want to develop towards <strong>automated testing.</strong>
 <br>Working as a tester gives a lot of <strong>possibilities to develop, requires commitment and continuous training</strong> - and this values I appreciate a lot.
 <br>My goal is to develop my knowledge and technical skills in the testing area. I want to get to know JavaScript (and I'm also open for learning another programming languages) and tools which are used in automated testing.
