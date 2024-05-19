@@ -52,7 +52,7 @@ I have knowledge in the field of:
 * <strong>Postman</strong> - basic level.
   
 <p align="justify"> I have created two projects in Java Programming Language.
-<br>First of them concern automating browser-related test cases by Selenium WebDriver on a webpage "https://rahulshettyacademy.com/client". 
+<br>First of them concern automating browser-related test cases by Selenium WebDriver with Java on a webpage "https://rahulshettyacademy.com/client". 
 <br>In this particular project I have used Page Object Model design pattern.
 <br> Second of them 
 
