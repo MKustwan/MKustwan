@@ -83,7 +83,20 @@ Working as an assistant of a gas pipeline designer has strengthened my following
 ##  2. My bugs
 ### My bugs for
 * [[Bonito.pl Formularz rejestracji] Możliwość wprowadzenia błędnego formatu numeru telefonu](https://drive.google.com/drive/u/0/folders/1IjwkNZNbB5pObPsKPkQtSVwzr1xjCxnW)
-* 
+* [[Bonito.pl Formularz rejestracji] Możliwość rejestracji przy zduplikowanym adresie e-mail] (https://drive.google.com/drive/u/0/folders/1IjwkNZNbB5pObPsKPkQtSVwzr1xjCxnW)
+* [[Bonito.pl Formularz rejestracji] Możliwość rejestracji przy zduplikowanym numerze telefonu](https://drive.google.com/drive/u/0/folders/1IjwkNZNbB5pObPsKPkQtSVwzr1xjCxnW)
+* [[Bonito.pl] Brak przerwania sesji internetowej po dłuższym czasie](https://drive.google.com/drive/u/0/folders/1IjwkNZNbB5pObPsKPkQtSVwzr1xjCxnW)
+* [[Bonito.pl] Możliwość bycia zalogowanym na kilku urządzeniach na raz](https://drive.google.com/drive/u/0/folders/1IjwkNZNbB5pObPsKPkQtSVwzr1xjCxnW)
+* [[Bonito.pl] Możliwość bycia zalogowanym w kilku przeglądarkach na raz](https://drive.google.com/drive/u/0/folders/1IjwkNZNbB5pObPsKPkQtSVwzr1xjCxnW)
+* [[Bonito.pl Proces zakupu] Przy dodawaniu do koszyka takiego samego produktu, który już się w nim znajduje, ilość produktu w koszyku nie zwiększa się o 1] (https://drive.google.com/drive/u/0/folders/1IjwkNZNbB5pObPsKPkQtSVwzr1xjCxnW)
+* [[Bonito.pl Formularz edycji danych osobowych] Pole "Telefon" w panelu "Dane osobowe" przyjmuje wartości inne niż liczbowe](https://drive.google.com/drive/u/0/folders/1IjwkNZNbB5pObPsKPkQtSVwzr1xjCxnW)
+* [[Bonito.pl Formularz edycji danych osobowych] Pola "Imię", "Nazwisko", "Telefon" w panelu "Dane osobowe" przyjmują białe znaki] (https://drive.google.com/drive/u/0/folders/1IjwkNZNbB5pObPsKPkQtSVwzr1xjCxnW)
+* [[Bonito.pl Formularz adresu dostawy] Pola "Nazwa firmy", "Telefon", "E-mail" w formularzu adresu dostawy nie muszą być uzupełnione] (https://drive.google.com/drive/u/0/folders/1IjwkNZNbB5pObPsKPkQtSVwzr1xjCxnW)
+* [[Bonito.pl Formularz adresu dostawy] Pole "Telefon" w panelu "Adresy dostawy" przyjmuje wartości inne niż liczbowe](https://drive.google.com/drive/u/0/folders/1IjwkNZNbB5pObPsKPkQtSVwzr1xjCxnW)
+* [[Bonito.pl Formularz adresu dostawy] Pole "Kod pocztowy" w panelu "Adresy dostawy" przyjmuje wartości w niepoprawnym formacie](https://drive.google.com/drive/u/0/folders/1IjwkNZNbB5pObPsKPkQtSVwzr1xjCxnW)
+* [[Bonito.pl Formularz adresu dostawy] Możliwość duplikacji adresu dostawy](https://drive.google.com/drive/u/0/folders/1IjwkNZNbB5pObPsKPkQtSVwzr1xjCxnW)
+* [[Bonito.pl Filtry] Możliwość wprowadzenia błędnego formatu daty w polu "Data ukazania się" w filtrach](https://drive.google.com/drive/u/0/folders/1IjwkNZNbB5pObPsKPkQtSVwzr1xjCxnW)
+* [[Bonito.pl Filtry] Filtry przy kategoriach przyjmujących wartości liczbowe akceptują wartość zero i wartości ujemne](https://drive.google.com/drive/u/0/folders/1IjwkNZNbB5pObPsKPkQtSVwzr1xjCxnW)
 ##  3. My Report
 ### My report for
 * [[Bonito.pl Formularz rejestracji] Możliwość wprowadzenia błędnego formatu numeru telefonu](https://drive.google.com/drive/u/0/folders/1IjwkNZNbB5pObPsKPkQtSVwzr1xjCxnW)
