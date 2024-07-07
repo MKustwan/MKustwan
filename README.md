@@ -4,7 +4,7 @@
 <br>I want to rebrand and become <strong>manual tester</strong> and ultimately <strong>automation tester</strong>. I constantly develop towards <strong>manual and automated testing.</strong>
 <br>Working as a tester gives a lot of <strong>possibilities to develop, requires commitment and continuous training</strong> - and this values I appreciate a lot.
 <br>My goal is to develop my knowledge and technical skills in the testing area.
-<br>I have become acquainted with <strong>manual testing subject area</strong> and with <strong>Java Programming Language</strong> and nowadays I'm constantly expanding my knowledge connected with testing.
+<br>I have become acquainted with <strong>manual testing</strong> and with <strong>Java Programming Language</strong> and nowadays I'm constantly expanding my knowledge connected with testing.
 <br>I have become familiar with:
 <br>1.<strong> Theory of software testing</strong>,
 <br>2.<strong> Software testing</strong>,
