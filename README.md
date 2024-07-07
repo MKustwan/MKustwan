@@ -54,10 +54,11 @@ I have knowledge in the field of:
 * <strong>Java 17</strong>,
 * <strong>Selenium WebDriver</strong> automation framework for automating browser-related test cases,
 * <strong>REST Assured</strong> Java-based library for testing RESTful APIs.
-  
-I have created two projects in <strong>Java Programming Language</strong>:
-1. <p align="justify">First of them concern automating browser-related test cases by <strong>Selenium WebDriver with Java </strong>on a webpage https://rahulshettyacademy.com/client. In this particular project I have used <strong>Page Object Model</strong> design pattern.</p>
-2. <p align="justify">Second of them involve API testing with <strong>REST Assured library</strong>. In this project I have used <strong>Cucumber software tool</strong> and I have created some test cases for https://www.themoviedb.org.</p>
+
+I have created:
+1. <p align="justify">Portfolio for manual testing. I have performed tests for <strong>Bonito Web App</strong></p>
+1. <p align="justify">Project in <strong>Java Programming Language</strong> which concerns automating browser-related test cases by using <strong>Selenium WebDriver with Java </strong>on a webpage https://rahulshettyacademy.com/client. In this particular project I have used <strong>Page Object Model</strong> design pattern.</p>
+2. <p align="justify">Project in <strong>Java Programming Language</strong> which involve API testing with <strong>REST Assured library</strong>. In this project I have used <strong>Cucumber software tool</strong> and I have created test cases for https://www.themoviedb.org.</p>
 
 ## Soft skills🗣️
 Working as an assistant of a gas pipeline designer has strengthened my following skills:
