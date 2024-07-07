@@ -83,10 +83,10 @@ Working as an assistant of a gas pipeline designer has strengthened my following
 ##  2. My bugs
 ### My bugs for
 * [nazwa buga](link do buga z google drive)
-* [nazwa buga](link do buga z google drive)
+* 
 ##  3. My Report
 ### My report for
-* [Report PDF](Link do raportu PDF)
+* [[Bonito.pl Formularz rejestracji] Możliwość wprowadzenia błędnego formatu numeru telefonu](https://drive.google.com/drive/u/0/folders/1IjwkNZNbB5pObPsKPkQtSVwzr1xjCxnW)
 * [Report Excell](Link do raportu Excell)
 ##  4. [Automated testing - Selenium WebDriver with Java](https://github.com/MKustwan/SeleniumWebDriver)
 ##  5. [API testing - Rest Assured](https://github.com/MKustwan/RestAssured)
