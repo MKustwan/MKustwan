@@ -68,7 +68,7 @@ Working as an assistant of a gas pipelines designer has strengthened my followin
 * [testerzy.pl](https://testerzy.pl/),
 * [testerka.pl](https://testerka.pl),
 * [testowanie-oprogramowania.pl](https://testowanie-oprogramowania.pl/blog/),
-* [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/](https://www.wyszkolewas.com.pl/blog/).
+* [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/blog/)
 ## My projects 💻
 ### 1. [Football Scouts web apllication](https://scouts-test.futbolkolektyw.pl/)
 * [Test Cases based on an User Story](https://docs.google.com/spreadsheets/d/1f743nJbJRFVM-6Q-Gs4fvZtBPScJbfGY9Di4mZ2xE7E/edit#gid=0)
