@@ -99,7 +99,7 @@ Working as an assistant of a gas pipeline designer has strengthened my following
 * [[Bonito.pl Filtry] Filtry przy kategoriach przyjmujących wartości liczbowe akceptują wartość zero i wartości ujemne](https://drive.google.com/drive/u/0/folders/1IjwkNZNbB5pObPsKPkQtSVwzr1xjCxnW)
 ##  3. My Report
 ### My report for
-* [[Bonito.pl Formularz rejestracji] Możliwość wprowadzenia błędnego formatu numeru telefonu](https://drive.google.com/drive/u/0/folders/1IjwkNZNbB5pObPsKPkQtSVwzr1xjCxnW)
-* [Report Excell](Link do raportu Excell)
+* [Report PDF](https://drive.google.com/drive/u/0/folders/1pR5CsBWjc1ShubWGsPws9ujOpUmPKUvW)
+* [Report Excell](https://drive.google.com/drive/u/0/folders/1pR5CsBWjc1ShubWGsPws9ujOpUmPKUvW)
 ##  4. [Automated testing - Selenium WebDriver with Java](https://github.com/MKustwan/SeleniumWebDriver)
 ##  5. [API testing - Rest Assured](https://github.com/MKustwan/RestAssured)
