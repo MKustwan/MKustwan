@@ -20,11 +20,11 @@
 
 ## Certificates 📜
 * ISTQB Foundation Level passed in December 2022, no of certificate <strong>95202</strong>,
-* Dare It "QA manual testing", February 2023,
+* DareIT "QA manual testing", February 2023,
 * Individual training - manual tester, July 2024.
 ## Courses📋
 * "ISTQB" Foundation Level - course guided by Krzysztof Kołodziejczyk from testerzy.pl,
-* "QA manual testing" - Dare It Challenge,
+* "QA manual testing" - DareIT Challenge,
 * Individual training - manual tester by Waldemar Szafraniec,
 * "Postman testowanie REST API" (Udemy),
 * "Kurs SQL od podstaw" (Udemy),
