@@ -82,7 +82,7 @@ Working as an assistant of a gas pipeline designer has strengthened my following
 ### My Test Case Examples for:
 ##  2. My bugs
 ### My bugs for
-* [nazwa buga](link do buga z google drive)
+* [[Bonito.pl Formularz rejestracji] Możliwość wprowadzenia błędnego formatu numeru telefonu](https://drive.google.com/drive/u/0/folders/1IjwkNZNbB5pObPsKPkQtSVwzr1xjCxnW)
 * 
 ##  3. My Report
 ### My report for
