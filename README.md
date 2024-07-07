@@ -13,7 +13,7 @@
 <br>5.<strong> Creation of test reports</strong>,
 <br>6.<strong> Selenium WebDriver</strong> automation framework for automating browser-related test cases,
 <br>7.<strong> Rest Assured</strong> Java-based library for testing RESTful APIs.
-<br>At this moment my goal is to harden my knowledge connected with manual tetsing, Selenium WebDriver and Rest Assured and getting to know new tools which are used in manual and automated testing.
+<br>At this moment my goal is to harden my knowledge connected with manual testing, Selenium WebDriver and Rest Assured and getting to know new tools which are used in manual and automated testing.
 <br>Thanks to my work experience I develop interpersonal skills to work successfully with all of my team members. I think this experience would be very helpfull in a work connected with testing.
 <br>In this portfolio I would like to show my <strong>testing knowledge and technical skills</strong>, which I gained through self-learning and through taking part in courses connected with testing.
 <br>I am determined to develop my knowledge and technical skills in testing area and my first goal is to get a job as a <strong>junior software tester.</strong></p> 
