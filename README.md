@@ -6,8 +6,8 @@
 <br>My goal is to develop my knowledge and technical skills in the testing area.
 <br>I have become acquainted with <strong>manual testing subject area</strong> and with <strong>Java Programming Language</strong> and nowadays I'm constantly expanding my knowledge connected with testing.
 <br>I have become familiar with:
-<br>1.<strong> Theory of software testing </strong>,
-<br>2.<strong> Software testing </strong>,
+<br>1.<strong> Theory of software testing</strong>,
+<br>2.<strong> Software testing</strong>,
 <br>3.<strong> Creation of test scenarios and test cases</strong>,
 <br>4.<strong> Writing a Bug Report</strong>,
 <br>5.<strong> Creation of test reports</strong>,
