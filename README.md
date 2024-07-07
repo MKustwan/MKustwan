@@ -41,10 +41,7 @@ Basic knowledge of:
 * <strong>Postman</strong> - testing tool for REST API,
 * <strong>Mobizen</strong> - screen recorder for mobile,
 * <strong>ShareX</strong> - screenshot tool,
-* <strong>PicPick</strong> - screen capture tool,
-* <strong>Java 17</strong>,
-* <strong>Selenium WebDriver</strong> automation framework for automating browser-related test cases,
-* <strong>REST Assured</strong> Java-based library for testing RESTful APIs.
+* <strong>PicPick</strong> - screen capture tool.
 
 ## Tech skills 🖥
 I have knowledge in the field of:
@@ -53,7 +50,10 @@ I have knowledge in the field of:
 * <strong>Reporting bugs</strong>,
 * <strong>SQL</strong>,
 * <strong>SCRUM</strong>,
-* <strong>Postman</strong>.
+* <strong>Postman</strong>,
+* <strong>Java 17</strong>,
+* <strong>Selenium WebDriver</strong> automation framework for automating browser-related test cases,
+* <strong>REST Assured</strong> Java-based library for testing RESTful APIs.
   
 I have created two projects in <strong>Java Programming Language</strong>:
 1. <p align="justify">First of them concern automating browser-related test cases by <strong>Selenium WebDriver with Java </strong>on a webpage https://rahulshettyacademy.com/client. In this particular project I have used <strong>Page Object Model</strong> design pattern.</p>
