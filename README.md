@@ -69,7 +69,7 @@ Working as an assistant of a gas pipelines designer has strengthened my followin
 * [testerka.pl](https://testerka.pl),
 * [testowanie-oprogramowania.pl](https://testowanie-oprogramowania.pl/blog/),
 * [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/blog/)
-## Groups on Facebook ![image](https://github.com/MKustwan/MKustwan/assets/111000081/6dccdd31-5531-4159-a48b-fbb21bcc5568)
+## Groups on Facebook :it:
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania
 ## My projects 💻
