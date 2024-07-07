@@ -74,13 +74,13 @@ Working as an assistant of a gas pipelines designer has strengthened my followin
 * Testowanie oprogramowania
 ## My projects 💻
 ### 1. My Test Case Examples
-### My Test Case Examples for:
+##  My Test Case Examples for:
 ### 2. My bugs
-### My bugs for
+##  My bugs for
 * [nazwa buga](link do buga z google drive)
 * [nazwa buga](link do buga z google drive)
 ### 3. My Report
-### My report for
+##  My report for
 * [Report PDF](Link do raportu PDF)
 * [Report Excell](Link do raportu Excell)
 ### 4. [Automated testing - Selenium WebDriver with Java](https://github.com/MKustwan/SeleniumWebDriver)
