@@ -48,9 +48,9 @@ I have knowledge in the field of:
 * <strong>Software testing</strong>,
 * <strong>Creating test cases</strong>,
 * <strong>Reporting bugs</strong>,
+* <strong>Creating test report</strong>,
 * <strong>SQL</strong>,
 * <strong>SCRUM</strong>,
-* <strong>Postman</strong>,
 * <strong>Java 17</strong>,
 * <strong>Selenium WebDriver</strong> automation framework for automating browser-related test cases,
 * <strong>REST Assured</strong> Java-based library for testing RESTful APIs.
