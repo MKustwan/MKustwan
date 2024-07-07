@@ -83,7 +83,7 @@ Working as an assistant of a gas pipeline designer has strengthened my following
 ##  2. My bugs
 ### My bugs for
 * [[Bonito.pl Formularz rejestracji] Możliwość wprowadzenia błędnego formatu numeru telefonu](https://drive.google.com/drive/u/0/folders/1IjwkNZNbB5pObPsKPkQtSVwzr1xjCxnW)
-* [[Bonito.pl Formularz rejestracji] Możliwość rejestracji przy zduplikowanym adresie e-mail] (https://drive.google.com/drive/u/0/folders/1IjwkNZNbB5pObPsKPkQtSVwzr1xjCxnW)
+* [[Bonito.pl Formularz rejestracji]Możliwość rejestracji przy zduplikowanym adresie e-mail] (https://drive.google.com/drive/u/0/folders/1IjwkNZNbB5pObPsKPkQtSVwzr1xjCxnW)
 * [[Bonito.pl Formularz rejestracji] Możliwość rejestracji przy zduplikowanym numerze telefonu](https://drive.google.com/drive/u/0/folders/1IjwkNZNbB5pObPsKPkQtSVwzr1xjCxnW)
 * [[Bonito.pl] Brak przerwania sesji internetowej po dłuższym czasie](https://drive.google.com/drive/u/0/folders/1IjwkNZNbB5pObPsKPkQtSVwzr1xjCxnW)
 * [[Bonito.pl] Możliwość bycia zalogowanym na kilku urządzeniach na raz](https://drive.google.com/drive/u/0/folders/1IjwkNZNbB5pObPsKPkQtSVwzr1xjCxnW)
