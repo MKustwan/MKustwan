@@ -78,13 +78,13 @@ Working as an assistant of a gas pipeline designer has strengthened my following
 ## Groups on Facebook :it:
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania
-##  1. My Mind Map
+##  My Mind Map
 ### My Mind Map for testing Bonito Web App
 * [Mind Map](https://drive.google.com/drive/u/0/folders/1cDbifKwmOEUP6JlF9B4EfB87RnGRHHwh)
-##  2. My Test Case Examples
+##  My Test Case Examples
 ### My Test Case Examples for testing Bonito Web App
 * [Test cases](https://drive.google.com/drive/u/0/folders/1ATGuEJAxrKQ-UtQH1tGZ7y2iTbDJtb9A)
-##  3. My bugs
+##  My bugs
 ### My bugs for testing Bonito Web App
 * [[Bonito.pl Formularz rejestracji] Możliwość wprowadzenia błędnego formatu numeru telefonu](https://drive.google.com/drive/u/0/folders/1IjwkNZNbB5pObPsKPkQtSVwzr1xjCxnW)
 * [[Bonito.pl Formularz rejestracji] Możliwość rejestracji przy zduplikowanym adresie e-mail](https://drive.google.com/drive/u/0/folders/1IjwkNZNbB5pObPsKPkQtSVwzr1xjCxnW)
@@ -101,9 +101,11 @@ Working as an assistant of a gas pipeline designer has strengthened my following
 * [[Bonito.pl Formularz adresu dostawy] Możliwość duplikacji adresu dostawy](https://drive.google.com/drive/u/0/folders/1IjwkNZNbB5pObPsKPkQtSVwzr1xjCxnW)
 * [[Bonito.pl Filtry] Możliwość wprowadzenia błędnego formatu daty w polu "Data ukazania się" w filtrach](https://drive.google.com/drive/u/0/folders/1IjwkNZNbB5pObPsKPkQtSVwzr1xjCxnW)
 * [[Bonito.pl Filtry] Filtry przy kategoriach przyjmujących wartości liczbowe akceptują wartość zero i wartości ujemne](https://drive.google.com/drive/u/0/folders/1IjwkNZNbB5pObPsKPkQtSVwzr1xjCxnW)
-##  4. My Report
+##  My Report
 ### My report for testing Bonito Web App
 * [Report PDF](https://drive.google.com/drive/u/0/folders/1pR5CsBWjc1ShubWGsPws9ujOpUmPKUvW)
 * [Report Excell](https://drive.google.com/drive/u/0/folders/1pR5CsBWjc1ShubWGsPws9ujOpUmPKUvW)
-##  5. [Automated testing - Selenium WebDriver with Java](https://github.com/MKustwan/SeleniumWebDriver)
-##  6. [API testing - Rest Assured](https://github.com/MKustwan/RestAssured)
+## My project for Selenium WebDriver with Java
+### [Automated testing - Selenium WebDriver with Java](https://github.com/MKustwan/SeleniumWebDriver)
+## My project for API testing with REST Assured library
+### [API testing - REST Assured](https://github.com/MKustwan/RestAssured)
