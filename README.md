@@ -15,10 +15,12 @@
 
 ## Certificates 📜
 * ISTQB Foundation Level passed in December 2022, no of certificate <strong>95202</strong>,
-* Dare It "QA manual testing".
+* Dare It "QA manual testing" in February 2023,
+* Individual training - manual tester in July 2024.
 ## Courses📋
 * "ISTQB" Foundation Level - course guided by Krzysztof Kołodziejczyk from testerzy.pl,
 * "QA manual testing" - Dare It Challenge,
+* Individual training - manual tester by Waldemar Szafraniec,
 * "Postman testowanie REST API" (Udemy),
 * "Kurs SQL od podstaw" (Udemy),
 * "Kurs Git dla początkujących" (Udemy),
@@ -28,32 +30,29 @@
 ## Tools 🔧
 Basic knowledge of:
 * <strong>Jira</strong> - Project Managment,
+* <strong>TestLink</strong> - Test Management Tool,
 * <strong>Chrome DevTools</strong> - for testing and to improve bug reports,
-* <strong>Git, Git Bash, GitHub</strong>,
+* <strong>Git, GitHub</strong>,
 * <strong>Postman</strong> - testing tool for REST API,
 * <strong>Mobizen</strong> - screen recorder for mobile,
 * <strong>ShareX</strong> - screenshot tool,
 * <strong>PicPick</strong> - screen capture tool,
-* <strong>Java Programming Language</strong>,
+* <strong>Java 17</strong>,
 * <strong>Selenium WebDriver</strong> automation framework for automating browser-related test cases,
-* <strong>Rest Assured</strong> Java-based library for testing RESTful APIs.
+* <strong>REST Assured</strong> Java-based library for testing RESTful APIs.
 
 ## Tech skills 🖥
-<p align="justify">I took part in Dare IT "QA manual testing" in which I have tested several apps (web apps and mobile apps). 
-<br>During this challenge I've created test cases, reported bugs and created Summary Test Report. </p>
-
 I have knowledge in the field of:
 * <strong>Software testing</strong>,
 * <strong>Creating test cases</strong>,
 * <strong>Reporting bugs</strong>,
-* <strong>SQL</strong> - SQL commands which I know are compiled in my portoflio for Dare IT Challenge: 
-1. [SQL part 1](https://github.com/MagdalenaKustwan/challenge_portfolio_magda#TASK-5),
-2. [SQL part 2](https://github.com/MagdalenaKustwan/challenge_portfolio_magda#TASK-6),
-* <strong>Postman</strong> - basic level.
+* <strong>SQL</strong>,
+* <strong>SCRUM</strong>,
+* <strong>Postman</strong>.
   
 I have created two projects in <strong>Java Programming Language</strong>:
 1. <p align="justify">First of them concern automating browser-related test cases by <strong>Selenium WebDriver with Java </strong>on a webpage https://rahulshettyacademy.com/client. In this particular project I have used <strong>Page Object Model</strong> design pattern.</p>
-2. <p align="justify">Second of them involve API testing with <strong>Rest Assured library</strong>. In this project I have used <strong>Cucumber software tool</strong> and I have created some test cases for https://www.themoviedb.org.</p>
+2. <p align="justify">Second of them involve API testing with <strong>REST Assured library</strong>. In this project I have used <strong>Cucumber software tool</strong> and I have created some test cases for https://www.themoviedb.org.</p>
 
 ## Soft skills🗣️
 Working as an assistant of a gas pipelines designer has strengthened my following skills:
@@ -63,11 +62,13 @@ Working as an assistant of a gas pipelines designer has strengthened my followin
 * <strong>Problem solving</strong> and <strong>critical thinking</strong> - in my current work there's a lot of problematic situations so I develop the ability of choosing the best solution to a particular situation.
 ## Books 📖
 * "Zawód tester" Radosław Smilgin,
-* "Pasja testowania" Krzysztof Jadczyk.
+* "Pasja testowania" Krzysztof Jadczyk,
+* "Jakość to będzie!" Waldemar Szafraniec.
 ## Blogs I read 📚
 * [testerzy.pl](https://testerzy.pl/),
 * [testerka.pl](https://testerka.pl),
-* [testowanie-oprogramowania.pl](https://testowanie-oprogramowania.pl/blog/)
+* [testowanie-oprogramowania.pl](https://testowanie-oprogramowania.pl/blog/),
+* [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/](https://www.wyszkolewas.com.pl/blog/).
 ## My projects 💻
 ### 1. [Football Scouts web apllication](https://scouts-test.futbolkolektyw.pl/)
 * [Test Cases based on an User Story](https://docs.google.com/spreadsheets/d/1f743nJbJRFVM-6Q-Gs4fvZtBPScJbfGY9Di4mZ2xE7E/edit#gid=0)
