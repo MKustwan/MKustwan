@@ -73,15 +73,15 @@ Working as an assistant of a gas pipelines designer has strengthened my followin
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania
 ## My projects 💻
-### 1. My Test Case Examples
-##  My Test Case Examples for:
-### 2. My bugs
-##  My bugs for
+##  1. My Test Case Examples
+### My Test Case Examples for:
+##  2. My bugs
+### My bugs for
 * [nazwa buga](link do buga z google drive)
 * [nazwa buga](link do buga z google drive)
-### 3. My Report
-##  My report for
+##  3. My Report
+### My report for
 * [Report PDF](Link do raportu PDF)
 * [Report Excell](Link do raportu Excell)
-### 4. [Automated testing - Selenium WebDriver with Java](https://github.com/MKustwan/SeleniumWebDriver)
-### 5. [API testing - Rest Assured](https://github.com/MKustwan/RestAssured)
+##  4. [Automated testing - Selenium WebDriver with Java](https://github.com/MKustwan/SeleniumWebDriver)
+##  5. [API testing - Rest Assured](https://github.com/MKustwan/RestAssured)
