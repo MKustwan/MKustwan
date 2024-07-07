@@ -73,16 +73,15 @@ Working as an assistant of a gas pipelines designer has strengthened my followin
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania
 ## My projects 💻
-### 1. [Football Scouts web apllication](https://scouts-test.futbolkolektyw.pl/)
-* [Test Cases based on an User Story](https://docs.google.com/spreadsheets/d/1f743nJbJRFVM-6Q-Gs4fvZtBPScJbfGY9Di4mZ2xE7E/edit#gid=0)
-* [Test Cases based on "my own experience"](https://docs.google.com/spreadsheets/d/1aTDpsfbxUiWod1yA2tgrxEHNAv--As5-ufsPlr7xjq8/edit#gid=0)
-* [Bug Reports 1](https://docs.google.com/document/d/1gtXcMbP4IvgVwKEMl7KNeSZhK4EqXtWq-Teyad3258k/edit), [Attachments](https://drive.google.com/drive/folders/10BkHWJDOZzVEY48z4-tYlQ9Qf-fEI6UK)
-* [Bug Reports 2](https://docs.google.com/document/d/1EMviWXsw5gNjMoQ0EOenddn1YJe2aIu99inNrnfEXi4/edit), [Attachments](https://drive.google.com/drive/folders/10BkHWJDOZzVEY48z4-tYlQ9Qf-fEI6UK)
-* [Summary Test Report - Football Scouts Panel web application](https://docs.google.com/document/d/1q6kp1qb3HyzGO6dV0wQPLDXBL0uMm8Hc4TcDkIq-LdI/edit)
-### 2. ["Pick eat up" mobile application](https://pickeatup.io/)
-* [Test Cases - "Pick eat up" mobile application](https://docs.google.com/spreadsheets/d/1dsWG6yD_5FFyJ-oawPs9YfcOgNrBZsVyPuxbAwSVGRA/edit#gid=0)
-### 3. [OLX mobile application](https://www.olx.pl/)
-* [Bug Reports](https://docs.google.com/document/d/1fztrn_jhq8e8R7ts9O9r_n2RKX-jmP9NwJhYPPnfOUM/edit), [Attachments](https://drive.google.com/drive/folders/1SVZRa6-d23UBrf1ps7SIEeWh2KYp1isr)
-### 4. [Dare IT: QA Challenge - Zostań Testerem Manualnym](https://github.com/MKustwan/challenge_portfolio_magda)
-### 5. [Automated testing - Selenium WebDriver with Java](https://github.com/MKustwan/SeleniumWebDriver)
-### 6. [API testing - Rest Assured](https://github.com/MKustwan/RestAssured)
+### 1. My Test Case Examples
+### My Test Case Examples for:
+### 2. My bugs
+### My bugs for
+* [nazwa buga](link do buga z google drive)
+* [nazwa buga](link do buga z google drive)
+### 3. My Report
+### My report for
+* [Report PDF](Link do raportu PDF)
+* [Report Excell](Link do raportu Excell)
+### 4. [Automated testing - Selenium WebDriver with Java](https://github.com/MKustwan/SeleniumWebDriver)
+### 5. [API testing - Rest Assured](https://github.com/MKustwan/RestAssured)
