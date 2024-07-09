@@ -71,7 +71,7 @@ Working as an assistant of a gas pipeline designer has strengthened my following
 * "Pasja testowania" Krzysztof Jadczyk,
 * "Jakość to będzie!" Waldemar Szafraniec.
 ## Blogs I read 📚
-* <a href="https://testerzy.pl/" target="_blank" rel="noopener noreferrer">testerzy.pl</a>
+* <a href="http://testerzy.pl/" target="_blank" rel="noopener noreferrer">testerzy.pl</a>
 * [testerka.pl](https://testerka.pl),
 * [testowanie-oprogramowania.pl](https://testowanie-oprogramowania.pl/blog/),
 * [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/blog/)
