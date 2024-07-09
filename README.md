@@ -83,28 +83,28 @@ Working as an assistant of a gas pipeline designer has strengthened my following
 * [Mind Map](https://drive.google.com/file/d/1SiH0awtUdy8M07tnhN_ETKIY7hcF6J-M/view?usp=drive_link)
 ##  My Test Case Examples :notebook_with_decorative_cover:
 ### My Test Case Examples for testing Bonito Web App
-* [Test cases](https://drive.google.com/drive/u/0/folders/1ATGuEJAxrKQ-UtQH1tGZ7y2iTbDJtb9A)
+* [Test cases](https://drive.google.com/file/d/1Ss9hLJzikIKU44xxmkLeWAM-9RKv3QeA/view?usp=drive_link)
 ##  My bugs :bug:
 ### My bugs for testing Bonito Web App
-* [[Bonito.pl Formularz rejestracji] Możliwość wprowadzenia błędnego formatu numeru telefonu](https://drive.google.com/drive/u/0/folders/1IjwkNZNbB5pObPsKPkQtSVwzr1xjCxnW)
-* [[Bonito.pl Formularz rejestracji] Możliwość rejestracji przy zduplikowanym adresie e-mail](https://drive.google.com/drive/u/0/folders/1IjwkNZNbB5pObPsKPkQtSVwzr1xjCxnW)
-* [[Bonito.pl Formularz rejestracji] Możliwość rejestracji przy zduplikowanym numerze telefonu](https://drive.google.com/drive/u/0/folders/1IjwkNZNbB5pObPsKPkQtSVwzr1xjCxnW)
-* [[Bonito.pl] Brak przerwania sesji internetowej po dłuższym czasie](https://drive.google.com/drive/u/0/folders/1IjwkNZNbB5pObPsKPkQtSVwzr1xjCxnW)
-* [[Bonito.pl] Możliwość bycia zalogowanym na kilku urządzeniach na raz](https://drive.google.com/drive/u/0/folders/1IjwkNZNbB5pObPsKPkQtSVwzr1xjCxnW)
-* [[Bonito.pl] Możliwość bycia zalogowanym w kilku przeglądarkach na raz](https://drive.google.com/drive/u/0/folders/1IjwkNZNbB5pObPsKPkQtSVwzr1xjCxnW)
-* [[Bonito.pl Proces zakupu] Przy dodawaniu do koszyka takiego samego produktu, który już się w nim znajduje, ilość produktu w koszyku nie zwiększa się o 1](https://drive.google.com/drive/u/0/folders/1IjwkNZNbB5pObPsKPkQtSVwzr1xjCxnW)
-* [[Bonito.pl Formularz edycji danych osobowych] Pole "Telefon" w panelu "Dane osobowe" przyjmuje wartości inne niż liczbowe](https://drive.google.com/drive/u/0/folders/1IjwkNZNbB5pObPsKPkQtSVwzr1xjCxnW)
-* [[Bonito.pl Formularz edycji danych osobowych] Pola "Imię", "Nazwisko", "Telefon" w panelu "Dane osobowe" przyjmują białe znaki](https://drive.google.com/drive/u/0/folders/1IjwkNZNbB5pObPsKPkQtSVwzr1xjCxnW)
-* [[Bonito.pl Formularz adresu dostawy] Pola "Nazwa firmy", "Telefon", "E-mail" w formularzu adresu dostawy nie muszą być uzupełnione](https://drive.google.com/drive/u/0/folders/1IjwkNZNbB5pObPsKPkQtSVwzr1xjCxnW)
-* [[Bonito.pl Formularz adresu dostawy] Pole "Telefon" w panelu "Adresy dostawy" przyjmuje wartości inne niż liczbowe](https://drive.google.com/drive/u/0/folders/1IjwkNZNbB5pObPsKPkQtSVwzr1xjCxnW)
-* [[Bonito.pl Formularz adresu dostawy] Pole "Kod pocztowy" w panelu "Adresy dostawy" przyjmuje wartości w niepoprawnym formacie](https://drive.google.com/drive/u/0/folders/1IjwkNZNbB5pObPsKPkQtSVwzr1xjCxnW)
-* [[Bonito.pl Formularz adresu dostawy] Możliwość duplikacji adresu dostawy](https://drive.google.com/drive/u/0/folders/1IjwkNZNbB5pObPsKPkQtSVwzr1xjCxnW)
-* [[Bonito.pl Filtry] Możliwość wprowadzenia błędnego formatu daty w polu "Data ukazania się" w filtrach](https://drive.google.com/drive/u/0/folders/1IjwkNZNbB5pObPsKPkQtSVwzr1xjCxnW)
-* [[Bonito.pl Filtry] Filtry przy kategoriach przyjmujących wartości liczbowe akceptują wartość zero i wartości ujemne](https://drive.google.com/drive/u/0/folders/1IjwkNZNbB5pObPsKPkQtSVwzr1xjCxnW)
+* [[Bonito.pl Formularz rejestracji] Możliwość wprowadzenia błędnego formatu numeru telefonu](https://drive.google.com/file/d/1RsyaOGIA-Wld6isI-jBmCcKvZd8sptQq/view?usp=drive_link)
+* [[Bonito.pl Formularz rejestracji] Możliwość rejestracji przy zduplikowanym adresie e-mail](https://drive.google.com/file/d/1t5zps5TwRjpsFaOzV9lC4GXSHiFAjEmZ/view?usp=drive_link)
+* [[Bonito.pl Formularz rejestracji] Możliwość rejestracji przy zduplikowanym numerze telefonu](https://drive.google.com/file/d/18XvAuDzkVmNP3fn82eYi7CYqFpStaMk4/view?usp=drive_link)
+* [[Bonito.pl] Brak przerwania sesji internetowej po dłuższym czasie](https://drive.google.com/file/d/1RWIqaPIJeNAfDm3aq00NkpWE-7wmCHGO/view?usp=drive_link)
+* [[Bonito.pl] Możliwość bycia zalogowanym na kilku urządzeniach na raz](https://drive.google.com/file/d/1pT_ce7kaR4hblHXCKxSFoN0hCrpvGGUx/view?usp=drive_link)
+* [[Bonito.pl] Możliwość bycia zalogowanym w kilku przeglądarkach na raz](https://drive.google.com/file/d/17_XCNpf_hS8JfmnyWnCYxTfP7873y4jr/view?usp=drive_link)
+* [[Bonito.pl Proces zakupu] Przy dodawaniu do koszyka takiego samego produktu, który już się w nim znajduje, ilość produktu w koszyku nie zwiększa się o 1](https://drive.google.com/file/d/1tFPhj1bDunrJ511TSF-WgAHGqHDSGUZG/view?usp=drive_link)
+* [[Bonito.pl Formularz edycji danych osobowych] Pole "Telefon" w panelu "Dane osobowe" przyjmuje wartości inne niż liczbowe](https://drive.google.com/file/d/1a1JXFeY_BZbASdXJNiJD3gR1pCNNA-Tg/view?usp=drive_link)
+* [[Bonito.pl Formularz edycji danych osobowych] Pola "Imię", "Nazwisko", "Telefon" w panelu "Dane osobowe" przyjmują białe znaki](https://drive.google.com/file/d/11012LeXbdtV6kELPDF6384n66k8dz1en/view?usp=drive_link)
+* [[Bonito.pl Formularz adresu dostawy] Pola "Nazwa firmy", "Telefon", "E-mail" w formularzu adresu dostawy nie muszą być uzupełnione](https://drive.google.com/file/d/1Xwmp_qoCmNNNi2FJP6eeuU5c07hEiZu8/view?usp=drive_link)
+* [[Bonito.pl Formularz adresu dostawy] Pole "Telefon" w panelu "Adresy dostawy" przyjmuje wartości inne niż liczbowe](https://drive.google.com/file/d/1a1JXFeY_BZbASdXJNiJD3gR1pCNNA-Tg/view?usp=drive_link)
+* [[Bonito.pl Formularz adresu dostawy] Pole "Kod pocztowy" w panelu "Adresy dostawy" przyjmuje wartości w niepoprawnym formacie](https://drive.google.com/file/d/1QWX-JLmWkZxgPYdwo7tYgwiJPMxpS3p_/view?usp=drive_link)
+* [[Bonito.pl Formularz adresu dostawy] Możliwość duplikacji adresu dostawy](https://drive.google.com/file/d/1zUzsdMhGXL5Zw5EC7QB65iDdCX7zPYtN/view?usp=drive_link)
+* [[Bonito.pl Filtry] Możliwość wprowadzenia błędnego formatu daty w polu "Data ukazania się" w filtrach](https://drive.google.com/file/d/1l_e4eVpwE3b9lSxVYPt4pAPA6K7maPWA/view?usp=drive_link)
+* [[Bonito.pl Filtry] Filtry przy kategoriach przyjmujących wartości liczbowe akceptują wartość zero i wartości ujemne](https://drive.google.com/file/d/18-FHbsNZPiWcdtHdckIB6rPQ5EmSireV/view?usp=drive_link)
 ##  My Report :page_with_curl:
 ### My report for testing Bonito Web App
-* [Report PDF](https://drive.google.com/drive/u/0/folders/1pR5CsBWjc1ShubWGsPws9ujOpUmPKUvW)
-* [Report Excell](https://drive.google.com/drive/u/0/folders/1pR5CsBWjc1ShubWGsPws9ujOpUmPKUvW)
+* [Report PDF](https://drive.google.com/file/d/1xO8NXEh7X5dY9FdCgoWJsPjXD95NsW_R/view?usp=drive_link)
+* [Report Excel](https://docs.google.com/spreadsheets/d/1i1m2F7Nacsb355RMRLeRaLnygESwk5ac/edit?usp=drive_link&ouid=107223982613391859063&rtpof=true&sd=true)
 ## My project for Selenium WebDriver with Java :clipboard:
 ### [Automated testing - Selenium WebDriver with Java](https://github.com/MKustwan/SeleniumWebDriver)
 ## My project for API testing with REST Assured library :page_facing_up:
