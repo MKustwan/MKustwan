@@ -80,7 +80,7 @@ Working as an assistant of a gas pipeline designer has strengthened my following
 * Testowanie oprogramowania
 ##  My Mind Map :milky_way:
 ### My Mind Map for testing Bonito Web App
-* [Mind Map](https://drive.google.com/drive/u/0/folders/1cDbifKwmOEUP6JlF9B4EfB87RnGRHHwh)
+* [Mind Map](https://drive.google.com/file/d/1SiH0awtUdy8M07tnhN_ETKIY7hcF6J-M/view?usp=drive_link)
 ##  My Test Case Examples :notebook_with_decorative_cover:
 ### My Test Case Examples for testing Bonito Web App
 * [Test cases](https://drive.google.com/drive/u/0/folders/1ATGuEJAxrKQ-UtQH1tGZ7y2iTbDJtb9A)
