@@ -96,7 +96,7 @@ Working as an assistant of a gas pipeline designer has strengthened my following
 * [[Bonito.pl Formularz edycji danych osobowych] Pole "Telefon" w panelu "Dane osobowe" przyjmuje wartości inne niż liczbowe](https://drive.google.com/file/d/1a1JXFeY_BZbASdXJNiJD3gR1pCNNA-Tg/view?usp=drive_link)
 * [[Bonito.pl Formularz edycji danych osobowych] Pola "Imię", "Nazwisko", "Telefon" w panelu "Dane osobowe" przyjmują białe znaki](https://drive.google.com/file/d/11012LeXbdtV6kELPDF6384n66k8dz1en/view?usp=drive_link)
 * [[Bonito.pl Formularz adresu dostawy] Pola "Nazwa firmy", "Telefon", "E-mail" w formularzu adresu dostawy nie muszą być uzupełnione](https://drive.google.com/file/d/1Xwmp_qoCmNNNi2FJP6eeuU5c07hEiZu8/view?usp=drive_link)
-* [[Bonito.pl Formularz adresu dostawy] Pole "Telefon" w panelu "Adresy dostawy" przyjmuje wartości inne niż liczbowe](https://drive.google.com/file/d/1a1JXFeY_BZbASdXJNiJD3gR1pCNNA-Tg/view?usp=drive_link)
+* [[Bonito.pl Formularz adresu dostawy] Pole "Telefon" w panelu "Adresy dostawy" przyjmuje wartości inne niż liczbowe](https://drive.google.com/file/d/1_L87SnwdjH2Gx7DOEiU9mX0SCu0L-tRb/view?usp=drive_link)
 * [[Bonito.pl Formularz adresu dostawy] Pole "Kod pocztowy" w panelu "Adresy dostawy" przyjmuje wartości w niepoprawnym formacie](https://drive.google.com/file/d/1QWX-JLmWkZxgPYdwo7tYgwiJPMxpS3p_/view?usp=drive_link)
 * [[Bonito.pl Formularz adresu dostawy] Możliwość duplikacji adresu dostawy](https://drive.google.com/file/d/1zUzsdMhGXL5Zw5EC7QB65iDdCX7zPYtN/view?usp=drive_link)
 * [[Bonito.pl Filtry] Możliwość wprowadzenia błędnego formatu daty w polu "Data ukazania się" w filtrach](https://drive.google.com/file/d/1l_e4eVpwE3b9lSxVYPt4pAPA6K7maPWA/view?usp=drive_link)
