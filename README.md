@@ -71,7 +71,7 @@ Working as an assistant of a gas pipeline designer has strengthened my following
 * "Jakość to będzie!" Waldemar Szafraniec.
 ## Blogs I read 📚
 * <a href="http://testerzy.pl/" target="_blank" rel="noopener">testerzy.pl</a>
-* [testowanie-oprogramowania.pl](https://testowanie-oprogramowania.pl/blog/),
+* [testowanie-oprogramowania.pl](https://testowanie-oprogramowania.pl/blog/)
 * [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/blog/)
 ## Groups on Facebook :speaker:
 * Tester oprogramowania - wsparcie na starcie
